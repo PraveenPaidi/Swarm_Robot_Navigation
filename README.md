@@ -38,13 +38,16 @@ https://github.com/PraveenPaidi/Swarm_Robot_Navigation/assets/120610889/2a322c96
 
 
 The project pipeline is :
+
 <img width="511" alt="flow" src="https://github.com/PraveenPaidi/Swarm_Robot_Navigation/assets/120610889/7fed3ab5-f0b4-427f-bff2-17e1909d520c">
 
 The shape function ideas:
+
 <img width="436" alt="Screenshot 2023-12-19 035336" src="https://github.com/PraveenPaidi/Swarm_Robot_Navigation/assets/120610889/f38c6f3a-403c-4be9-9bc7-e654b96800cd">
 <img width="541" alt="fololo" src="https://github.com/PraveenPaidi/Swarm_Robot_Navigation/assets/120610889/69c7d63c-984c-492b-bcf0-15ee0e1c18cc">
 
 The final navigation with A star and APF and shape function:
+
 <img width="233" alt="shape_nav" src="https://github.com/PraveenPaidi/Swarm_Robot_Navigation/assets/120610889/6852ef2e-2a27-4900-97cf-bb5f744de869">
 
 
